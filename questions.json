@@ -1,0 +1,222 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "If 'A' = 1, 'B' = 3, 'C' = 5, etc., what is the sum of the letters in the word \"NURSE\"?",
+    "options": [
+      "135",
+      "149",
+      "153",
+      "210"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q2",
+    "question": "In a code, 'PLANT' is written as $@27- and YIELD as '&64@%'. How is 'DELAY' written?",
+    "options": [
+      "%4@2&",
+      "%64@2",
+      "64@%2",
+      "@%64"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q3",
+    "question": "In a certain code, if 'RED' is written as TGF. How is PINK written in that code?",
+    "options": [
+      "RKPN",
+      "REVB",
+      "MKLJ",
+      "RKPM"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q4",
+    "question": "If 'apple' is called 'lemon', 'lemon' is called 'cake', and so on, which one is sour in taste?",
+    "options": [
+      "SANDWICH",
+      "LEMON",
+      "APPLE",
+      "CAKE"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q5",
+    "question": "In a certain code, COMMUNICATION is written as NOITACINUMMOC. Which letter will be in the 6th place when MOUNTAIN is written in that code?",
+    "options": [
+      "U",
+      "P",
+      "I",
+      "O"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q6",
+    "question": "In a certain code, if 'JUNE' = 50, then what will 'JULY' equal to?",
+    "options": [
+      "60",
+      "68",
+      "62",
+      "58"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q7",
+    "question": "In a certain code, 169 means YOU ARE GOOD and 764 means WHERE ARE FLOWERS. What is the code for FLOWERS ARE GOOD?",
+    "options": [
+      "469",
+      "389",
+      "981",
+      "641"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q8",
+    "question": "In a certain code, 're ti ku' means 'eating is necessary'. What is the code for 'necessary'?",
+    "options": [
+      "ti",
+      "re",
+      "Sa",
+      "ku"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q9",
+    "question": "If A = E, B = F, C = G and H = L, how will the word COME be written in this code?",
+    "options": [
+      "GSQI",
+      "BSHM",
+      "ISBE",
+      "TNME"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q10",
+    "question": "If RAMESH = AREMHS, then AARYAN = ?",
+    "options": [
+      "AZYOPN",
+      "ARPMNA",
+      "ARYYMN",
+      "AAYRNA"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q11",
+    "question": "If RABBIT= IZYYRG, then CAT = ?",
+    "options": [
+      "XZL",
+      "XZG",
+      "XZB",
+      "ZBP"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q12",
+    "question": "In a certain code 'ELEPHANT' is written as 'LEPEAHTN'. How is 'MONKEY' written in that code?",
+    "options": [
+      "OMKNYE",
+      "ONMNKY",
+      "NMKYOK",
+      "MNKOYE"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q13",
+    "question": "In certain code 'MONTH' is written as 'IUOPN'. Then how would 'YEAR' be written in that code?",
+    "options": [
+      "ISND",
+      "SBFZ",
+      "OFME",
+      "PJMW"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q14",
+    "question": "In a certain code 'GLASS' is written as 'JODVV'. How is 'CUP' written in that code?",
+    "options": [
+      "HNE",
+      "PKB",
+      "FXS",
+      "VSO"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q15",
+    "question": "If NOTEBOOK is written as ONUDCNPJ, how is PENCIL written?",
+    "options": [
+      "QDOBJK",
+      "JEJWKS",
+      "POWMS",
+      "HEBAIN"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q16",
+    "question": "In a certain language 'PROFIT' is written as 'OQQSNPEGHJSU'. How is 'LOSS' written in that language?",
+    "options": [
+      "HNRTSMN",
+      "MNATWTP",
+      "FXBSNATE",
+      "KMNPRTRT"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q17",
+    "question": "If CUPCAKE = ECMGEWR, what is SANDWICH?",
+    "options": [
+      "YKEJUCPF",
+      "HEIPNDEY",
+      "BEIWKHYI",
+      "INSHJWPJ"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q18",
+    "question": "If JUNE is the same as LXQG, what is JULY?",
+    "options": [
+      "LAUB",
+      "LXOA",
+      "ANIW",
+      "MNOW"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q19",
+    "question": "In a code language, '134' means 'NICE AND LOVELY', '478' means 'WEAR NICE CLOTHES' and '729' means 'CLOTHES ARE PRETTY', then which code means 'WEAR' in that code language?",
+    "options": [
+      "4",
+      "7",
+      "8",
+      "1"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q20",
+    "question": "In certain code 'TIGER' is written as 'QDFHS'. How is 'FISH' written in that code?",
+    "options": [
+      "GRHE",
+      "GREH",
+      "GHRE",
+      "GEHR"
+    ],
+    "correct": 0
+  }
+]
